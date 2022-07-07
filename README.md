@@ -1,4 +1,4 @@
-# atqc_seminar_notebook
+# atqc_seminar_vqaa
 Jupyter Notebook for TUM Seminar "Advanced Topics in Quantum Computing":<br>
 Simulation of the VQAA algorithm described in [1]
 
